@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angel Velasquez
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning Laravel and React
+- 👀 I’m interested in Web and Mobile Development
+- 🌱 I’m currently learning Laravel and Kotlin
 - 💞️ I’m looking to collaborate on PHP Symfony projects
 - 📫 How to reach me: @angelsoft071
 
