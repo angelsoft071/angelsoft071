@@ -2,10 +2,10 @@
 <h3 align="center">A Venezuelan developer, currently living in Lima, Peru</h3>
 
 - 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently learning Laravel and Kotlin
-- 💞️ I’m looking to collaborate on PHP Symfony projects
+- 🌱 I’m currently learning Laravel and Flutter
+- 💞️ I’m looking to collaborate on PHP Symfony and Kotlin Multiplatform projects
 - 📫 How to reach me: @angelsoft071
-- 👨‍💻 All of my projects are available at [https://linktr.ee/angelsoft071](https://linktr.ee/angelsoft071)
+- 👨‍💻 All of my projects are available at [https://angelvelasquez.link](https://angelvelasquez.link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
